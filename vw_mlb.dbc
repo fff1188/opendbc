@@ -633,7 +633,7 @@ BO_ 294 HCA_01: 8 Frontsensorik
  SG_ EA_Ruckprofil : 27|3@1+ (1,0) [0|7] "" Vector__XXX
  SG_ HCA_01_Sendestatus : 30|1@1+ (1,0) [0|1] "" Vector__XXX
  SG_ HCA_01_LM_OffSign : 31|1@1+ (1,0) [0|1] "" Vector__XXX
- SG_ HCA_01_Status_HCA : 32|4@1+ (1,0) [0|15] "" Vector__XXX
+ SG_ HCA_01_Status_HCA : 32|1@1+ (1,0) [0|1] "" XXX
  SG_ HCA_Standby : 33|1@1+ (1,0) [0|1] "" XXX
  SG_ HCA_Active : 34|1@1+ (1,0) [0|1] "" XXX
  SG_ HCA_01_Vib_Amp : 36|4@1+ (0.2,0) [0|3] "Unit_NewtoMeter" Vector__XXX
