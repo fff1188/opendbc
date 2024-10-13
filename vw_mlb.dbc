@@ -1685,7 +1685,7 @@ BO_ 512 TPS_Tester: 7 Gateway_D4C7
 
 BO_ 268 TSK_02: 8 XXX
  SG_ TSK_02_CHK : 0|8@1+ (1,0) [0|255] "" XXX
- SG_ COUNTER : 8|4@1+ (1,0) [0|15] "" XXX
+ SG_ TSK_02_BZ : 8|4@1+ (1,0) [0|15] "" XXX
  SG_ TSK_Status : 16|2@1+ (1,0) [0|3] "" XXX
 
 BO_ 786 TSK_03: 8 Motor_EDC17_D4
