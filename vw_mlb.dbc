@@ -637,7 +637,8 @@ BO_ 294 HCA_01: 8 Frontsensorik
  SG_ HCA_Standby : 33|1@1+ (1,0) [0|1] "" XXX
  SG_ HCA_Active : 34|1@1+ (1,0) [0|1] "" XXX
  SG_ HCA_01_Vib_Amp : 36|4@1+ (0.2,0) [0|3] "Unit_NewtoMeter" Vector__XXX
- SG_ EA_Ruckfreigabe : 40|1@1+ (1,0) [0|1] "" Vector__XXX
+ SG_ SET_ME_0XFE : 40|8@1+ (1,0) [0|255] "" XXX
+ SG_ SET_ME_0X07 : 48|8@1+ (1,0) [0|255] "" XXX
  SG_ EA_ACC_Wunschgeschwindigkeit : 41|10@1+ (0.32,0) [0|327.04] "Unit_KiloMeterPerHour"  Frontradar
 
 BO_ 1811 ISO_ABS_Req: 8 Gateway_D4C7
