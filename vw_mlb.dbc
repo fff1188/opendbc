@@ -338,7 +338,7 @@ BO_ 256 ESP_01: 8 Gateway_D4C7
  SG_ ESP_KD_Fehler : 63|1@1+ (1.0,0.0) [0.0|1] ""  Vector__XXX
 
 BO_ 257 ESP_02: 8 Gateway_D4C7
- SG_ ESP_02_CHK : 0|8@1+ (1,0) [0|255] ""  Airbag_D4,EPB_D4,Getriebe_AL551_951_D4_C7,Getriebe_DL501_C7,Getriebe_VL381_C7,Motor_EDC17_D4,Motor_ME17_BY,Motor_MED17_SIMOS8_D4
+ SG_ ESP_02_CRC : 0|8@1+ (1,0) [0|255] ""  Airbag_D4,EPB_D4,Getriebe_AL551_951_D4_C7,Getriebe_DL501_C7,Getriebe_VL381_C7,Motor_EDC17_D4,Motor_ME17_BY,Motor_MED17_SIMOS8_D4
  SG_ COUNTER : 8|4@1+ (1,0) [0|15] ""  Airbag_D4,EPB_D4,Getriebe_AL551_951_D4_C7,Getriebe_DL501_C7,Getriebe_VL381_C7,Motor_EDC17_D4,Motor_ME17_BY,Motor_MED17_SIMOS8_D4
  SG_ ESP_QBit_Gierrate : 12|1@1+ (1.0,0.0) [0.0|1] ""  Airbag_D4
  SG_ ESP_QBit_Laengsbeschl : 13|1@1+ (1.0,0.0) [0.0|1] ""  Airbag_D4,EPB_D4,Getriebe_AL551_951_D4_C7,Getriebe_DL501_C7,Getriebe_VL381_C7,Motor_EDC17_D4,Motor_ME17_BY,Motor_MED17_SIMOS8_D4
