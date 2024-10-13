@@ -34,6 +34,9 @@ BS_:
 
 BU_: Airbag_D4 EPB_D4 ESP_D4 Gateway_D4C7 Getriebe_AL551_951_D4_C7 Getriebe_DL501_C7 Getriebe_VL381_C7 LWS_D4 Motor_EDC17_D4 Motor_ME17_BY Motor_MED17_SIMOS8_D4 Motor_Slave_D4 QSP_D4 SAK_C7 SCR_C7 SCU_D4
 
+BO_ 779 Einheiten_01: 8 XXX
+ SG_ KBI_MFA_v_Einheit_02 : 17|1@1+ (1,0) [0|1] "" XXX
+
 BO_ 266 TSK_01: 8 XXX
  SG_ TSK_01_CHK : 0|8@1+ (1,0) [0|255] "" XXX
  SG_ TSK_01_BZ : 8|4@1+ (1,0) [0|15] "" XXX
